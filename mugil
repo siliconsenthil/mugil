@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'bundler'
+Bundler.require
+require './mugil.rb'
+
+Mugil.start
+
